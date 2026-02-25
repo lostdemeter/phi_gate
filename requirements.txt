@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+
+# Optional (for ConvNeXt drop-in verification):
+# torch
+# torchvision
